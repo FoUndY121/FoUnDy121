@@ -20,7 +20,7 @@ I am a **Software Developer** specializing in **Frontend Development** and **Bac
 ---
 
 
-### 🎬 Fun GIFs:
+
 <img src="https://media.giphy.com/media/Y1Zr4JpT2DTLy/giphy.gif" width="250"> <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="250">
 
 ---
