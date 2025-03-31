@@ -17,14 +17,8 @@ I am a **Software Developer** specializing in **Frontend Development** and **Bac
 #### 🔧 Tools & Platforms:
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
-
 ---
 
-### 📊 GitHub Stats:
-![Vladislav's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
-
----
 
 ### 🎬 Fun GIFs:
 <img src="https://media.giphy.com/media/Y1Zr4JpT2DTLy/giphy.gif" width="250"> <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="250">
