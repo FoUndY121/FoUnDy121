@@ -1,4 +1,4 @@
-### Hi, I'm Vladislav Mashirov! Foundy 👋
+### Hi, I'm  Foundy 👋
 
 ![Banner](https://user-images.githubusercontent.com/yourusername/banner-image.gif)
 
