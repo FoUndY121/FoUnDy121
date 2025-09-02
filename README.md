@@ -2,7 +2,7 @@
 
 ![Banner](https://user-images.githubusercontent.com/yourusername/banner-image.gif)
 
-I am a **Software Developer** specializing in **Frontend Development** and **Backend Technologies**.  
+I am a **Software Developer** specializing in **Frontend & Backend Development**.  
 Passionate about building high-performance applications, solving complex problems, and constantly learning new tech! 🚀
 
 ---
@@ -26,11 +26,33 @@ Passionate about building high-performance applications, solving complex problem
 
 ---
 
-<img src="https://media.giphy.com/media/Y1Zr4JpT2DTLy/giphy.gif" width="250"> <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="250">
+### 🚀 Featured Projects
+
+| Project | Description | Link |
+|---------|-------------|------|
+| Fitness App | React + Redux, LocalStorage | [GitHub](https://github.com/FoUndY121/fitness-app) |
+| Car Rental | React + Redux + API | [GitHub](https://github.com/FoUndY121/rental-car) |
+| Sip Happens Café | React Gallery + API | [GitHub](https://github.com/FoUndY121/sip-happens-cafe) |
+
+---
+
+### 📊 GitHub Stats
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FoUndY121&layout=compact&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=FoUndY121&show_icons=true&theme=radical)
+
+---
+
+### ✨ Fun / Motivation
+> "Code is like humor. When you have to explain it, it’s bad." – Cory House  
+> Always learning, always building, never stopping 🚀
 
 ---
 
 ### 📫 Contact Me:
-- LinkedIn: [Vladyslav Mashyrov](https://www.linkedin.com/in/vladyslav-mashyrov-009156263)
-- Email: **foundybash@gmail.com**
-- GitHub: [FoUndY121](https://github.com/FoUndY121)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/vladyslav-mashyrov-009156263)
+[![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/FoUndY121)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:foundybash@gmail.com)
+
+---
+
+![Coding GIF](https://media.giphy.com/media/Y1Zr4JpT2DTLy/giphy.gif) <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="250">
