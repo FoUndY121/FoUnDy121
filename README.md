@@ -26,13 +26,8 @@ Passionate about building high-performance applications, solving complex problem
 
 ---
 
-### 🚀 Featured Projects
 
-| Project | Description | Link |
-|---------|-------------|------|
-| Fitness App | React + Redux, LocalStorage | [GitHub](https://github.com/FoUndY121/fitness-app) |
-| Car Rental | React + Redux + API | [GitHub](https://github.com/FoUndY121/rental-car) |
-| Sip Happens Café | React Gallery + API | [GitHub](https://github.com/FoUndY121/sip-happens-cafe) |
+
 
 ---
 
