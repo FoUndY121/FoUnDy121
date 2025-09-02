@@ -26,17 +26,6 @@ Passionate about building high-performance applications, solving complex problem
 
 ---
 
-### 📚 What I’ve Learned So Far:
-- ⚡ Basics of **Node.js** and npm  
-- 🔗 Building **REST APIs with Express**  
-- 🗄️ CRUD operations with **MongoDB**  
-- 📂 Organizing code: controllers, services, models  
-- ✅ **Data validation**  
-- 📊 **Pagination, filtering, and sorting**  
-- 🔐 **Authentication & Authorization** (in progress)
-
----
-
 <img src="https://media.giphy.com/media/Y1Zr4JpT2DTLy/giphy.gif" width="250"> <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="250">
 
 ---
